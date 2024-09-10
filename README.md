@@ -1,20 +1,21 @@
-#Project Title: Signup Page with Node.js and Express
+# Project Title: Signup Page with Node.js and Express
 
-##This project implements a simple signup page using Node.js and Express. Users can input their data, which is then stored in a file on the server.
+## Description
+This project implements a simple signup page using Node.js and Express. Users can input their data, which is then stored in a file on the server.
 
-#Getting Started:
-##To run the project locally, follow these steps:
+## Getting Started
+To run the project locally, follow these steps:
 
-Clone the repository.
-Install dependencies.
-Start the server.
-Access the signup page by navigating to http://localhost:3000/signup.html.
-Dependencies:
+1. Clone the repository.
+2. Install dependencies.
+3. Start the server.
+4. Access the signup page by navigating to `http://localhost:3000/signup.html`.
 
-Express.js
-body-parser
-multer
-Project Structure:
+## Dependencies
+- Express.js
+- body-parser
+- multer
 
-app.js: Backend server code using Node.js and Express.
-public/signup.html: Frontend HTML file for the signup page.
+## Project Structure
+- `app.js`: Backend server code using Node.js and Express.
+- `public/signup.html`: Frontend HTML file for the signup page.
